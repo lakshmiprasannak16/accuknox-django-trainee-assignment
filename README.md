@@ -20,5 +20,7 @@ This repository contains solutions for the Accuknox Django Trainee technical ass
   ```bash
   python3 manage.py runserver
 
-Rectangle class: python3 rectangle.py
+Rectangle class:
+```bash
+python3 rectangle.py
 
