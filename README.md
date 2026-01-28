@@ -18,6 +18,7 @@ This repository contains solutions for the Accuknox Django Trainee technical ass
 ## How to Run
 - Django project:
   ```bash
+  python3 manage.py runserver
 
 Rectangle class: python3 rectangle.py
 
